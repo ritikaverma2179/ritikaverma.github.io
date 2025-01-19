@@ -1,3 +1,5 @@
 title: Ritika Verma's Academic Website
-description: Welcome to my personal academic page.
+description: My academic portfolio.
 theme: architect
+baseurl: ""
+url: "https://ritikaverma.github.io"
